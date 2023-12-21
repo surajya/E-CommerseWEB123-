@@ -1,0 +1,10 @@
+.custom-bg{
+	background:#039BE5!important;
+}
+.admin .card{
+	border: 1px solid rgb(0, 255, 255);
+}
+.admin .card:hover{
+	background: #e2e2e2;
+	cursor: pointer;
+}
